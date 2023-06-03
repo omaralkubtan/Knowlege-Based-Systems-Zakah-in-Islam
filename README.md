@@ -37,13 +37,6 @@ When you run the project, you will see a window with two tabs: Calculate Zakah a
 - In the Calculate Zakah tab, you can enter your name and the values for each type of wealth that you have. You can enter any numeric value or 0 if not applicable. Then click on the Calculate button to see the result. The result will show you the total amount of zakah that you have to pay, as well as the breakdown for each type of wealth. It will also show you the explanations and references for each rule and calculation.
 - In the Deserve Zakah tab, you can enter your name and the values for your income, expenses, debts, and assets. You can enter any numeric value or 0 if not applicable. Then click on the Check button to see the result. The result will tell you if you are eligible to receive zakah or not, based on your financial situation. It will also show you the explanations and references for each rule and determination.
 
-## Screenshots
-
-Here are some screenshots of the project:
-
-![Calculate Zakah](https://i.imgur.com/9wZbY1f.png)
-
-![Deserve Zakah](https://i.imgur.com/4Kl7y2z.png)
 
 ## Disclaimer
 
